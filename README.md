@@ -4,6 +4,9 @@
 [![LinkedIn Badge](
 https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/akhalikov1)](https://www.linkedin.com/in/akhalikov1/)
 
+:man_student: **Certifications:**
+
+<a href="https://www.credly.com/badges/8e4f4f38-391d-4025-b25f-8797643b2a25/public_url"><img src="https://images.credly.com/size/220x220/images/9956323d-90eb-4a7a-9fc6-4750ce433d3a/Oracle-Certification-badge_OC-Associate600X600.png" width="126" height="126" alt="Oracle Professional Certificate" title="Oracle Certified Associate, Java SE 7 Programmer"/></a>
 
 <!--
 **akhalikov/akhalikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
