@@ -1,5 +1,5 @@
-# Artur Khalikov
-
+👋👋👋
+ 
 [![Gmail Badge](https://img.shields.io/badge/-akhalikoff@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akhalikoff@gmail.com)](mailto:akhalikoff@gmail.com)
 [![LinkedIn Badge](
 https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/akhalikov1)](https://www.linkedin.com/in/akhalikov1/)
