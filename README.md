@@ -1,6 +1,6 @@
 A Software Engineer with 15+ years of experience designing scalable backend systems and distributed architectures. 
 
-Experienced in designing engineering standards, internal tooling, and scalable platform solutions in fintech and enterprise environments.
+Experienced in designing engineering standards, internal tooling, and scalable platform solutions in fintech and enterprise environments. AI enthusiast.
 
 📫 How to reach me:
 
