@@ -1,6 +1,6 @@
 A Software Engineer with 15+ years of experience designing scalable backend systems and distributed architectures. 
 
-Experienced in designing engineering standards, internal tooling, and scalable platform solutions in fintech and enterprise environments. AI enthusiast.
+Experienced in designing engineering standards, internal tooling, and scalable platform solutions in fintech and enterprise environments. 
 
 [![LinkedIn Badge](
 https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/akhalikov1)](https://www.linkedin.com/in/akhalikov1/)
