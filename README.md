@@ -3,7 +3,7 @@ A Software Engineer with 15+ years of experience designing scalable backend syst
 Experienced in designing engineering standards, internal tooling, and scalable platform solutions in fintech and enterprise environments. 
 
 [![LinkedIn Badge](
-https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/akhalikov1)](https://www.linkedin.com/in/akhalikov1/)
+https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/khalart)](https://www.linkedin.com/in/khalart/)
 
 <!--
 **akhalikov/akhalikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
